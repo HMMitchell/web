@@ -1,0 +1,6 @@
+git init : 在目录中创建新的 Git 仓库。
+git add .  : 命令将文件内容添加到索引
+git commit -m "做了什么事情" : 命令用于将更改记录(提交)到存储库。
+git reflog :	  查看提交版本历史记录
+git reset --hard  编码 : 恢复版本
+git status : 命令用于查看项目的当前状态
